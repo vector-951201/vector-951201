@@ -28,7 +28,7 @@
     <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots.
   </li>
   <li>
-    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:w.s.top.prof@gmail.com">w.s.top.prof@gmail.com</a> or <a href="https://t.me/codeConjurer01">@codeConjurer01</a>
+    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="pujiangthang@gmail.com">w.s.top.prof@gmail.com</a> or <a href="https://t.me/codeConjurer01">@codeConjurer01</a>
   </li>
   <li>
     &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> I automate things just to avoid doing them manually once.
