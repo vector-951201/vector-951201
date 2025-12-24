@@ -1,5 +1,5 @@
 
-<img alt="Hi, I'm Brandon Estrella" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi...I'm%20Brandon%20Estrella" style="width: 100%;" />
+<img alt="Hi, I'm Brandon Estrella" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi...I'm%20Vector" style="width: 100%;" />
 
 A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in the U.S., passionate about building high-performance web and mobile applications, integrating AI into real-world products, and scaling meaningful digital experiences.
 
